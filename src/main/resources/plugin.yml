@@ -1,0 +1,9 @@
+name: Zlesniezki
+version: '${project.version}'
+main: kol19pl.zlesniezki.Zlesniezki
+api-version: 1.18
+authors: [ kol19pl ]
+description: Prosty plugin z snieszkami
+load: POSTWORLD
+commands:
+  WUJ:
